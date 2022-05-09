@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyQuanKemWCF", "QuanLyQuanKemWCF\QuanLyQuanKemWCF.csproj", "{5F19EFAE-2FA7-4712-9377-5D2014B6CD86}"
+	ProjectSection(ProjectDependencies) = postProject
+		{528CF70D-2492-4713-8220-B7A5F5CD1CA5} = {528CF70D-2492-4713-8220-B7A5F5CD1CA5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFBanKem", "WCFBanKem\WCFBanKem.csproj", "{528CF70D-2492-4713-8220-B7A5F5CD1CA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F19EFAE-2FA7-4712-9377-5D2014B6CD86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F19EFAE-2FA7-4712-9377-5D2014B6CD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F19EFAE-2FA7-4712-9377-5D2014B6CD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F19EFAE-2FA7-4712-9377-5D2014B6CD86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528CF70D-2492-4713-8220-B7A5F5CD1CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528CF70D-2492-4713-8220-B7A5F5CD1CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528CF70D-2492-4713-8220-B7A5F5CD1CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528CF70D-2492-4713-8220-B7A5F5CD1CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {428457B4-68D3-4288-A747-6281229673B1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\bin\Debug\QuanLyQuanKemWCF.exe.config
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\bin\Debug\QuanLyQuanKemWCF.exe
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\bin\Debug\QuanLyQuanKemWCF.pdb
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\obj\Debug\QuanLyQuanKemWCF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\obj\Debug\QuanLyQuanKemWCF.Form1.resources
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\obj\Debug\QuanLyQuanKemWCF.Properties.Resources.resources
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\obj\Debug\QuanLyQuanKemWCF.csproj.GenerateResource.cache
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\obj\Debug\QuanLyQuanKemWCF.csproj.CoreCompileInputs.cache
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\obj\Debug\QuanLyQuanKemWCF.exe
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\obj\Debug\QuanLyQuanKemWCF.pdb
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\obj\Debug\QuanLyQuanKemWCF.ChucNang.resources
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\obj\Debug\QuanLyQuanKemWCF.TimKiem.resources
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\obj\Debug\QuanLyQuanKemWCF.ThongKe.resources
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\bin\Debug\iceCream.mdf
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\bin\Debug\iceCream_log.ldf
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\QuanLyQuanKemWCF\obj\Debug\QuanLyQuanKemWCF.csproj.AssemblyReference.cache

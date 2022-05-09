@@ -1,0 +1,6 @@
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\WCFBanKem\bin\Debug\WCFBanKem.dll.config
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\WCFBanKem\bin\Debug\WCFBanKem.dll
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\WCFBanKem\bin\Debug\WCFBanKem.pdb
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\WCFBanKem\obj\Debug\WCFBanKem.csproj.CoreCompileInputs.cache
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\WCFBanKem\obj\Debug\WCFBanKem.dll
+C:\Users\Thang\OneDrive\Desktop\QuanLyQuanKem\QuanLyQuanKemWCF\WCFBanKem\obj\Debug\WCFBanKem.pdb

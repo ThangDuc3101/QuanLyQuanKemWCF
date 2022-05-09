@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f19efae-2fa7-4712-9377-5d2014b6cd86": {
+      "ProjectGuid": "5f19efae-2fa7-4712-9377-5d2014b6cd86",
+      "DisplayName": "QuanLyQuanKemWCF",
+      "ColorIndex": 0
+    },
+    "528cf70d-2492-4713-8220-b7a5f5cd1ca5": {
+      "ProjectGuid": "528cf70d-2492-4713-8220-b7a5f5cd1ca5",
+      "DisplayName": "WCFBanKem",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
